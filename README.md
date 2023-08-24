@@ -42,8 +42,5 @@ This project is licensed under the [MIT License](LICENSE), allowing you to modif
 
 ## Contact
 
-If you have questions or feedback, please feel free to contact me at your.email@example.com.
+If you have questions or feedback, please feel free to contact me at jawadishtiaq298@gmail.com 
 
----
-
-Enjoy using the Language Translator with GUI for your translation needs!
